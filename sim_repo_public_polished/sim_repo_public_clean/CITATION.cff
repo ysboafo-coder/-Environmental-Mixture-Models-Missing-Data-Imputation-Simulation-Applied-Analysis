@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Unified simulation framework for missing-data mixture-model analyses"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Boafo"
+    given-names: "Yvonne"
+version: "1.0.0"
+date-released: "2026-04-17"
+license: "MIT"
+abstract: >-
+  A modular R framework for simulation studies comparing missing-data handling
+  strategies and mixture-model methods, with post-processing focused on
+  variable importance and variable selection.
+keywords:
+  - missing data
+  - multiple imputation
+  - environmental mixtures
+  - WQS
+  - BWQS
+  - Q-gcomp
+  - BKMR
+  - elastic net
+  - lasso
+  - simulation study
+repository-code: "https://github.com/<username>/<repository>"
