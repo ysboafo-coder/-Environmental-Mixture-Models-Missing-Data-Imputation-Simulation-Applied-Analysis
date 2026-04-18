@@ -1,4 +1,4 @@
-# Unified simulation framework for missing-data mixture-model analyses
+# Evaluating Missing Data Imputation Strategies for Environmental Mixture Models: A Simulation Study and Applied Analysis
 
 This repository provides a configurable R framework for running simulation studies on environmental mixture methods under multiple missing-data scenarios, then analyzing results with a focus on **variable importance** and **variable selection**.
 
