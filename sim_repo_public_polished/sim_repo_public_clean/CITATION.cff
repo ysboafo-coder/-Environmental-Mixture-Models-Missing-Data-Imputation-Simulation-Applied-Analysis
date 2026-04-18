@@ -5,6 +5,10 @@ type: software
 authors:
   - family-names: "Boafo"
     given-names: "Yvonne"
+ - family-names: "Obeng-Gyasi"
+    given-names: "Emmanual"
+ - family-names: "Mostafa"
+    given-names: "Sayed"
 version: "1.0.0"
 date-released: "2026-04-17"
 license: "MIT"
