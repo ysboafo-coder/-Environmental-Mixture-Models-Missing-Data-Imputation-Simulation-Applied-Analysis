@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Unified simulation framework for missing-data mixture-model analyses"
+title: "Evaluating Missing Data Imputation Strategies for Environmental Mixture Models: A Simulation Study and Applied Analysis"
 message: "If you use this repository, please cite it using the metadata below."
 type: software
 authors:
@@ -23,4 +23,4 @@ keywords:
   - elastic net
   - lasso
   - simulation study
-repository-code: "https://github.com/<username>/<repository>"
+repository-code: "https://github.com/ysboafo-coder/-Environmental-Mixture-Models-Missing-Data-Imputation-Simulation-Applied-Analysis"
